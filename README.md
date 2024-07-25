@@ -1,1 +1,1 @@
-Read text file for repository
+Read text file 
